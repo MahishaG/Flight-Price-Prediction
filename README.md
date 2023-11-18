@@ -49,8 +49,6 @@ The various features of the cleaned dataset are explained below:
 
 ✈️ **Duration:** A continuous feature that displays the overall amount of time it takes to travel between cities in hours.
 
----
-
 ## KEY LEARNINGS 🛩️ :
 
 ⏬ **ANOVA (Analysis of Variance)** 
