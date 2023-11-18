@@ -2,7 +2,7 @@
 
 Check out the consolidated Project Overview on Notion : https://windy-geese-6b2.notion.site/FLIGHT-PRICE-PREDICTION-USING-LINEAR-REGRESSION-bbbded6fbe5e4fd8a80cd0fc735a4339?pvs=4
 
-### **OBJECTIVE**
+## OBJECTIVE
 
 The objective of the study is to **analyse the flight booking dataset** obtained from “Ease My Trip” website and to conduct various statistical hypothesis tests in order to get meaningful information from it. The **'Linear Regression' statistical algorithm would be used to train the dataset and predict a continuous target variable.**
 
@@ -15,13 +15,13 @@ The aim of our study is to answer the below research questions:
 - **Does airline price depend upon the airline brand**
 - **Develop a regression model for predicting flight prices and demonstrate its predictive capabilities by inputting a random sample for price prediction**
 
-### ****DATA****
+## DATA
 
 Source: https://www.kaggle.com/datasets/shubhambathwal/flight-price-prediction?datasetId=1957837&language=Python
 
 **Octoparse** scraping tool was used to **extract data** from the website. Data was collected in two parts: **one for economy class tickets and another for business class tickets.** A total of 3**00261 distinct flight booking** options were extracted from the site. Data was collected for 50 days, from **February 11th to March 31st, 2022**. The data source was secondary data and was collected from the “Ease My Trip” website.
 
-### **DATASET**
+## DATASET
 
 The dataset contains information about flight booking options from the website “EaseMyTrip” for flight travel between India's top 6 metro cities. There are 300261 data points and 11 features in the cleaned dataset.
 
